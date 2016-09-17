@@ -6,7 +6,7 @@ comments: true
 ---
 
 <div>
-	<img align="middle" src="/images/me/slaay.jpg" >
+	<img align="middle" src="/images/me/slaay.png" >
 </div>
 
 About me!
