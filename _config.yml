@@ -1,18 +1,18 @@
 # Site settings
-title: Casburn Noronha
-description: 'This is my journey into the world of IT.'
-url: 'https://casburn1988.github.io'
+title: Edviges Fernandes
+description: 'Me, Edviges, by definition I am a Battlewoman. Going to battle via my blog'
+url: 'https://edviges.github.io'
 baseurl: '/'
 google_analytics: 'UA-83999817-1'
 disqus_shortname: 'https-casburn1988-github-io'
 
 author:
-  name: 'Casburn Noronha'
-  email: casburn.noronha@gmail.com
+  name: 'Edviges Fernandes'
+  email: edviges29@gmail.com
   twitter_username: slaaysrcecoders
   facebook_username: slaaysourcecoders
-  github_username:  casburn1988
-  linkedin_username:  casburnnoronha
+  github_username:  edviges
+  linkedin_username:  edviges-fernandes-794a3991
 
 defaults:
   -
