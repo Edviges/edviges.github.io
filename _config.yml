@@ -4,7 +4,7 @@ description: 'Me, Edviges, by definition I am a Battlewoman. Going to battle via
 url: 'https://edviges.github.io'
 baseurl: '/'
 google_analytics: 'UA-84322036-1'
-disqus_shortname: 'edviges-github-io.disqus.com'
+disqus_shortname: 'edviges-github-io'
 
 author:
   name: 'Edviges Fernandes'
